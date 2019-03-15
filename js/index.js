@@ -1,0 +1,1 @@
+document.write('<li><a class="btn navbar-btn button-rounded login" href="/index.php?r=login%2Findex"><i class="iconfont icon-iconfontwodea-copy"></i>登录</a></li> <li><a class="btn navbar-btn button-rounded register" href="/index.php?r=user%2Fregistration%2Fregister"><i class="iconfont icon-zhuce"></i>注册</a></li> ')
